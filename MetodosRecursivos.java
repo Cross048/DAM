@@ -5,7 +5,7 @@ import java.util.Scanner;
  *
  * @author Cristian Bernal Méndez
  */
-public class MetodosRecursivos {
+public class MetodosRecursivos{
     /**
      * Subir una clase con los siguietes métodos recursivos:
      *
@@ -14,7 +14,7 @@ public class MetodosRecursivos {
      * multiplicaciones).
      * @param args 
      */
-    public static void main(String[] args) {
+    public static void main(String[] args){
         int sumatorio = sumaN();
         int potencia = potenciaN();
         System.out.println("Sumatorio: "+sumatorio);
